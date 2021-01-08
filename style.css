@@ -1,0 +1,37 @@
+h3{
+    color:pink ;
+}
+
+.header{ 
+    background-color:rgb(0, 162, 255);
+    border: 30px;
+} 
+
+ .menu{ 
+     background-color: pink;
+     display:flex;
+     justify-content:  space-evenly;
+     font-size:20px;
+     font-family:sans-serif;
+     font-weight:400;
+     color:white;
+ }
+ body{
+     background-color: whitesmoke;
+ }
+ 
+ .grid{
+     border:2px solid black;
+     border-radius:50px;
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+ }
+
+ .origami{
+    border-radius:20px;
+    background-color: white;
+
+    width:310px;
+    font-family:fantasy;
+ }
